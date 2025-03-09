@@ -1,6 +1,6 @@
 # *Diabetes-Clinical-Data*
 <p align="center">
-  <img width="760" height="450" src="" alt="Diabetes-Clinical-Data-Logo">
+  <img width="760" height="600" src="https://github.com/dg2c4/Diabetes-Clinical-Data/blob/main/Assets/Diabetes-Clinical-Data-Logo.webp" alt="Diabetes-Clinical-Data-Logo">
 </p>
 
 ## *Objetivo:* 
