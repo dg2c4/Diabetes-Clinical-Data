@@ -9,18 +9,18 @@ Desarrollar un análisis completo que permita extraer datos sobre los pacientes 
 ## *Desarrollo:*
 Este trabajo de Machine Learning se centra en el desarrollo de un proyecto completo de análisis de datos, desde la exploración inicial hasta la evaluación de un modelo predictivo. El proceso se divide en tres fases principales:
 
-### *Análisis Exploratorio:*
+### *1. Análisis Exploratorio:*
     - Identificación de preguntas de investigación
     . Formulación de hipótesis
     - Análisis inicial del conjunto de datos
 
-### *Preprocesamiento de Datos:*
+### *2. Preprocesamiento de Datos:*
     - Limpieza de datos
     - Transformación de variables
     - Reducción de dimensionalidad
     - Discretización cuando sea necesaria
 
-### *Modelado y Evaluación:*
+### *3. Modelado y Evaluación:*
     - Implementación de modelo de regresión lineal o logística
     - Selección y cálculo de métricas de evaluación
     - Análisis del rendimiento del modelo
@@ -30,10 +30,8 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
     https://www.kaggle.com/datasets/ziya07/diabetes-clinical-dataset100k-rows 
 
 ## *Ejercicio:* 
-A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.  
-
-B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. Para esto, puede usar pandas. 
-
+A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.\
+B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. Para esto, puede usar pandas.\
 C. Luego de hacer el preprocesamiento y tener el conjunto de datos final, debe crear un modelo de Machine Learning de regresión lineal, puede usar scikit learn. Este modelo puede ser de predicción o regresión logística para clasificación. Debe buscar la forma de evaluar si el modelo está bien o no con métricas que permitan determinar si el modelo aprende o no.  
 
 ## *Evaluación:*
