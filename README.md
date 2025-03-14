@@ -30,9 +30,10 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
     https://www.kaggle.com/datasets/ziya07/diabetes-clinical-dataset100k-rows 
 
 ## *Ejercicio:* 
-A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.\
-B. Después de realizar el análisis exploratorio, debe hacer el preprocesamiento de los datos según como considere: limpieza, transformación, reducción de datos o discretización de los datos. Para esto, puede usar pandas.\
-C. Luego de hacer el preprocesamiento y tener el conjunto de datos final, debe crear un modelo de Machine Learning de regresión lineal, puede usar scikit learn. Este modelo puede ser de predicción o regresión logística para clasificación. Debe buscar la forma de evaluar si el modelo está bien o no con métricas que permitan determinar si el modelo aprende o no.  
+El Dataset entregado presenta los datos de pacientes que presentan afectaciones de diabetes. La idea es analizar cuáles son las causas para que un paciente tenga afectaciones de salud por esta enfermedad. Se debe realizar lo siguiente:\
+1. Preprocesamiento de los datos: limpieza, revisión de datos faltantes-anómalos, reducción de datos (seleccionar características relevantes) y transformaciones.\
+2. Análisis exploratorio (EDA) de los datos para responder al problema: ¿Qué características hacen que se diagnostique a una persona con diabetes?.\
+3. Entrenamiento de una red neuronal.
 
 ## *Evaluación:*
 | Ítem | Puntos |
