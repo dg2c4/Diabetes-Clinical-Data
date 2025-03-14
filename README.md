@@ -30,9 +30,9 @@ Este trabajo de Machine Learning se centra en el desarrollo de un proyecto compl
     https://www.kaggle.com/datasets/ziya07/diabetes-clinical-dataset100k-rows 
 
 ## *Ejercicio:* 
-El Dataset entregado presenta los datos de pacientes que presentan afectaciones de diabetes. La idea es analizar cuáles son las causas para que un paciente tenga afectaciones de salud por esta enfermedad. Se debe realizar lo siguiente:\
-1. Preprocesamiento de los datos: limpieza, revisión de datos faltantes-anómalos, reducción de datos (seleccionar características relevantes) y transformaciones.\
-2. Análisis exploratorio (EDA) de los datos para responder al problema: ¿Qué características hacen que se diagnostique a una persona con diabetes?.\
+El Dataset entregado presenta los datos de pacientes que presentan afectaciones de diabetes. La idea es analizar cuáles son las causas para que un paciente tenga afectaciones de salud por esta enfermedad. Se debe realizar lo siguiente:
+1. Preprocesamiento de los datos: limpieza, revisión de datos faltantes-anómalos, reducción de datos (seleccionar características relevantes) y transformaciones.
+2. Análisis exploratorio (EDA) de los datos para responder al problema: ¿Qué características hacen que se diagnostique a una persona con diabetes?.
 3. Entrenamiento de una red neuronal.
 
 ## *Evaluación:*
